@@ -1,4 +1,20 @@
-### Hi there 👋
+# 👋 Hey, schön dich hier kennenzulernen 🙂
+
+> Hier ein paar Informationen über mich! 
+
+- 👨‍🎓 Derzeit nehme ich am **Coding Bootcamp Europe** teil,
+  und lasse mich zu einem großartigen **Webentwickler** ausbilden.
+    
+- 📚 Aktuell lerne ich den Umgang mit **Github**.
+  
+- 🧑‍💼 Ich bin ausgelernter **Kaufmann im Groß- und Außenhandel**
+
+> Doch ich habe in meiner beruflichen Laufbahn viele Erfahrungen in verschiedenen Berufszweigen sammeln können.
+
+  # Unter anderem als:
+
+  - 🚝    **Triebfahrzeugführer**
+  - 🧑‍🔧 **Monetuer in der Kerntechnik**
 
 <!--
 **Chronike/Chronike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
