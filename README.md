@@ -11,7 +11,7 @@
 
 > Doch ich habe in meiner beruflichen Laufbahn viele Erfahrungen in verschiedenen Berufszweigen sammeln können.
 
-  # Unter anderem als:
+   **Unter anderem als:**
 
   - 🚝    **Triebfahrzeugführer**
   - 🧑‍🔧 **Monetuer in der Kerntechnik**
