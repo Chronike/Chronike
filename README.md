@@ -1,4 +1,4 @@
-# 👋 Hey, schön dich hier kennenzulernen 🙂
+**👋 Hey, schön dich hier kennenzulernen 🙂**
 
 > Hier ein paar Informationen über mich! 
 
